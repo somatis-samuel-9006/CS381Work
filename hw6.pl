@@ -1,5 +1,5 @@
 % Group members:
-%  * No, group, done by Samuel Somatis, OSU id 933339006
+%  * Samuel Somatis
 %  * Name, ID
 %  * Name, ID
 %
