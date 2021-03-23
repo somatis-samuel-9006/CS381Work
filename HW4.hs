@@ -1,4 +1,4 @@
--- Samuel Somatis, ONID somatiss osu id # 933339006 no group
+-- Samuel Somatis
 -- Group members:
 --  * Name, ID
 --  * Name, ID
