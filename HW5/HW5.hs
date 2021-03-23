@@ -1,5 +1,5 @@
 -- Group members:
---  * No Group, done by Samuel Somatis osu id# 933339006
+--  * No Group, done by Samuel Somatis
 --  * Name, ID
 --  * Name, ID
 --
