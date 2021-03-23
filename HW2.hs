@@ -2,10 +2,9 @@ module HW2 where
 import Data.Maybe (isJust, fromJust)
 -- Group: HW2 87
 -- Group members:
---  * Samuel Somatis, id#933339006, ONID somatiss@oregonstate.edu
+--  * Samuel Somatis
 --  * Name, ID
 --  * Name, ID
--- Worked with Alexander Nead-Work 933190259 and recieved help from other classmate 'Megan' on pathTo function
 -- Grading note: 10pts total
 --  * 2pts each for encodeList and mapTree
 --  * 3pts each for valueAt and pathTo
