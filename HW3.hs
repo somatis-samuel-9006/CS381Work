@@ -1,4 +1,4 @@
--- Done by Samuel Somatis, osu id# 933339006, no group
+-- Done by Samuel Somatis
 -- Group members:
 --  * Name, ID
 --  * Name, ID
